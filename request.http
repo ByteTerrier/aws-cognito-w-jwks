@@ -1,0 +1,11 @@
+POST http://localhost:3000/authenticate HTTP/1.1
+content-type: application/json
+
+{
+  "username": "vinicius",
+  "password": "t!)l5T$C825l"
+}
+###
+GET http://localhost:3000/verify-jwt HTTP/1.1
+content-type: application/json
+Authorization: Bearer <Token>
