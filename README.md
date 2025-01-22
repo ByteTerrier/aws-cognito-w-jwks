@@ -74,7 +74,3 @@ Refer to the source code for detailed implementation.
 ## Related Resources
 
 For a detailed explanation of the concepts and implementation, check out the article on [Dev.to](https://dev.to/vynnux/oauth2-jwt-and-jwks-using-amazon-cognito-as-idp-1jod).
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
